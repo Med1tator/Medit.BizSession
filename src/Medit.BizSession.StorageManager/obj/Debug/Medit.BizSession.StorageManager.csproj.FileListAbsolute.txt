@@ -1,0 +1,7 @@
+D:\personal\project\Medit.BizSession\Medit.BizSession.Libs\Medit.BizSession.StorageManager.dll
+D:\personal\project\Medit.BizSession\Medit.BizSession.Libs\Medit.BizSession.StorageManager.pdb
+D:\personal\project\Medit.BizSession\Medit.BizSession.StorageManager\obj\Debug\Medit.BizSession.StorageManager.csprojAssemblyReference.cache
+D:\personal\project\Medit.BizSession\Medit.BizSession.StorageManager\obj\Debug\Medit.BizSession.StorageManager.csproj.CoreCompileInputs.cache
+D:\personal\project\Medit.BizSession\Medit.BizSession.StorageManager\obj\Debug\Medit.BizSession.StorageManager.csproj.CopyComplete
+D:\personal\project\Medit.BizSession\Medit.BizSession.StorageManager\obj\Debug\Medit.BizSession.StorageManager.dll
+D:\personal\project\Medit.BizSession\Medit.BizSession.StorageManager\obj\Debug\Medit.BizSession.StorageManager.pdb

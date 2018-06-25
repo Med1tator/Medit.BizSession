@@ -1,0 +1,12 @@
+D:\personal\project\Medit.BizSession\Medit.BizSession.ConsoleTest\bin\Debug\Medit.BizSession.ConsoleTest.exe.config
+D:\personal\project\Medit.BizSession\Medit.BizSession.ConsoleTest\bin\Debug\Medit.BizSession.ConsoleTest.exe
+D:\personal\project\Medit.BizSession\Medit.BizSession.ConsoleTest\bin\Debug\Medit.BizSession.ConsoleTest.pdb
+D:\personal\project\Medit.BizSession\Medit.BizSession.ConsoleTest\bin\Debug\Medit.BizSession.StorageManager.dll
+D:\personal\project\Medit.BizSession\Medit.BizSession.ConsoleTest\bin\Debug\Medit.BizSession.StorageManger.Intf.dll
+D:\personal\project\Medit.BizSession\Medit.BizSession.ConsoleTest\bin\Debug\Medit.BizSession.StorageManager.pdb
+D:\personal\project\Medit.BizSession\Medit.BizSession.ConsoleTest\bin\Debug\Medit.BizSession.StorageManger.Intf.pdb
+D:\personal\project\Medit.BizSession\Medit.BizSession.ConsoleTest\obj\Debug\Medit.BizSession.ConsoleTest.csprojAssemblyReference.cache
+D:\personal\project\Medit.BizSession\Medit.BizSession.ConsoleTest\obj\Debug\Medit.BizSession.ConsoleTest.csproj.CoreCompileInputs.cache
+D:\personal\project\Medit.BizSession\Medit.BizSession.ConsoleTest\obj\Debug\Medit.BizSession.ConsoleTest.csproj.CopyComplete
+D:\personal\project\Medit.BizSession\Medit.BizSession.ConsoleTest\obj\Debug\Medit.BizSession.ConsoleTest.exe
+D:\personal\project\Medit.BizSession\Medit.BizSession.ConsoleTest\obj\Debug\Medit.BizSession.ConsoleTest.pdb

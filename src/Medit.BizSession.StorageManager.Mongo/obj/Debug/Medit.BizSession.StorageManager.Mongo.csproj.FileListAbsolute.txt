@@ -1,0 +1,7 @@
+D:\personal\project\Medit.BizSession\Medit.BizSession.Libs\Medit.BizSession.StorageManager.Mongo.dll
+D:\personal\project\Medit.BizSession\Medit.BizSession.Libs\Medit.BizSession.StorageManager.Mongo.pdb
+D:\personal\project\Medit.BizSession\Medit.BizSession.StorageManager.Mongo\obj\Debug\Medit.BizSession.StorageManager.Mongo.csprojAssemblyReference.cache
+D:\personal\project\Medit.BizSession\Medit.BizSession.StorageManager.Mongo\obj\Debug\Medit.BizSession.StorageManager.Mongo.csproj.CoreCompileInputs.cache
+D:\personal\project\Medit.BizSession\Medit.BizSession.StorageManager.Mongo\obj\Debug\Medit.BizSession.StorageManager.Mongo.csproj.CopyComplete
+D:\personal\project\Medit.BizSession\Medit.BizSession.StorageManager.Mongo\obj\Debug\Medit.BizSession.StorageManager.Mongo.dll
+D:\personal\project\Medit.BizSession\Medit.BizSession.StorageManager.Mongo\obj\Debug\Medit.BizSession.StorageManager.Mongo.pdb

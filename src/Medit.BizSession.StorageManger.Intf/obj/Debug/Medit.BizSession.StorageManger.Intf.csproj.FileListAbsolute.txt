@@ -1,0 +1,8 @@
+D:\personal\project\Medit.BizSession\Medit.BizSession.StorageManger.Intf\bin\Debug\Medit.BizSession.StorageManger.Intf.dll
+D:\personal\project\Medit.BizSession\Medit.BizSession.StorageManger.Intf\bin\Debug\Medit.BizSession.StorageManger.Intf.pdb
+D:\personal\project\Medit.BizSession\Medit.BizSession.StorageManger.Intf\obj\Debug\Medit.BizSession.StorageManger.Intf.csprojAssemblyReference.cache
+D:\personal\project\Medit.BizSession\Medit.BizSession.StorageManger.Intf\obj\Debug\Medit.BizSession.StorageManger.Intf.csproj.CoreCompileInputs.cache
+D:\personal\project\Medit.BizSession\Medit.BizSession.StorageManger.Intf\obj\Debug\Medit.BizSession.StorageManger.Intf.dll
+D:\personal\project\Medit.BizSession\Medit.BizSession.StorageManger.Intf\obj\Debug\Medit.BizSession.StorageManger.Intf.pdb
+D:\personal\project\Medit.BizSession\Medit.BizSession.Libs\Medit.BizSession.StorageManger.Intf.dll
+D:\personal\project\Medit.BizSession\Medit.BizSession.Libs\Medit.BizSession.StorageManger.Intf.pdb
